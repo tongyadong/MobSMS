@@ -1,0 +1,1 @@
+短信验证接入步骤：http://wiki.mob.com/sdk-sms-android-3-0-0/
